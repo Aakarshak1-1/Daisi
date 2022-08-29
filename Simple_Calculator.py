@@ -1,6 +1,9 @@
-def add(num1: float=0, num2: float=0):
-    result=num1-num2
+def compute(firstNumber: float=10, secondNumber: float=5):
+    # Compute the subtract
+    result = firstNumber - secondNumber
+
     return result
+
 
 # def sub(num1: float=0, num2: float=0):
 #     return num1-num2
