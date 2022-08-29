@@ -36,3 +36,6 @@ def add(num1: float=1, num2: float=1):
 # def power(num1: float=0, num2: float=0):
 #     return num1**num2
 
+
+if __name__="main":
+    add(1,1)
